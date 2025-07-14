@@ -1,0 +1,4 @@
+This is the branch created in remote repo
+feature-b.txt file inside it
+Welcome to the world of Aws and DevOps job career
+------------
